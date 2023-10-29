@@ -22,7 +22,7 @@ int main()
         cout << "Tulis panjang sisinya : ";
         cin >> panjang;
         luas = panjang * panjang;
-        cout << "Luas Perseginya adalah : "<< luas << endl;;
+        cout << "Luas Perseginya adalah : "<< luas << endl;
         break;
     case 2:
         cout << "Tulis panjangnya : ";
